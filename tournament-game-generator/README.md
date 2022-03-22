@@ -10,5 +10,5 @@ The first game outputted contain the team with the most regular season wins, the
 
 ## Running The Code
 
-- To run the code first clone the repository using `git clone https://github.com/fortyfortyy/basic-advanced-programs-in-pyton/tournament-game-generator.git`.
+- To run the code first clone the repository using `git clone https://github.com/fortyfortyy/basic-advanced-programs-in-python.git`.
 - Next `cd tournament-game-generator` and execute the `program.py` file with `python program.py` or `python3 program.py`.
