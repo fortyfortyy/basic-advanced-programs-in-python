@@ -24,5 +24,5 @@ that can be used to create a combo.
 
 ## Running the code
 
-- To run the code first clone the repository using `git clone https://github.com/fortyfortyy/basic-advanced-programs-in-pyton/asynchronous-point-of-sale-system.git`.
+- To run the code first clone the repository using `git clone https://github.com/fortyfortyy/basic-advanced-programs-in-python.git`.
 - Next `cd asynchronous-point-of-sale-system` and execute the `main.py` file with `python main.py` or `python3 main.py`.
